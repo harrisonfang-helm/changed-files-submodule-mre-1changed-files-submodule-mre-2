@@ -1,0 +1,3 @@
+[submodule "changed-files-submodule-mre-3"]
+	path = changed-files-submodule-mre-3
+	url = https://github.com/harrisonfang-helm/changed-files-submodule-mre-3.git
